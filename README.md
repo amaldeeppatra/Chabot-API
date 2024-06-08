@@ -1,3 +1,4 @@
 # Chabot-API
-Neural Network based chatbot\n
+Neural Network based chatbot
+
 Hosted using Flask
