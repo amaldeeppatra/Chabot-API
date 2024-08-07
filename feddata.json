@@ -1,0 +1,153 @@
+{"intents": [
+    {"tag": "about fed",
+      "patterns": ["What is fed", "tell me about fed"],
+      "responses": ["A group of KIIT TBI students called Federation of Entrepreneurship Development (FED) hopes to inspire those who have an entrepreneurial spirit by uniting all potential startup ideas onto a one platform. FED helps you get in touch with the greatest contacts, resources, and mentors by organising events that raise awareness of entrepreneurship.","A group of students from KIIT TBI called Federation of Entrepreneurship Development (FED) hope to inspire those who want to start their own business by assembling all potential startup ideas onto one platform. FED links you to the best tools, contacts, and mentors by organising events to raise awareness of entrepreneurship.","The Federation of Entrepreneurship Development (FED), a group of KIIT TBI students, aims to provide all possible startup ideas on one platform in order to encourage individuals who wish to launch their own company. FED hosts events that promote entrepreneurship and connects you with the best resources, contacts, and mentors.","The Federation of Entrepreneurship Development (FED), a team of students from KIIT TBI, aims to motivate aspiring entrepreneurs by bringing together all potential startup concepts on a single platform. FED connects you with top contacts, resources, and mentors through events that promote entrepreneurship awareness.","Known as the Federation of Entrepreneurship Development (FED), this group of KIIT TBI students strives to inspire those with entrepreneurial ambitions by consolidating various startup ideas onto one platform. FED facilitates access to excellent contacts, resources, and mentors by hosting events that highlight the importance of entrepreneurship.","A collective of KIIT TBI students, the Federation of Entrepreneurship Development (FED), aims to encourage budding entrepreneurs by bringing together all promising startup ideas on a single platform. FED organizes events to raise entrepreneurship awareness, providing access to top contacts, resources, and mentors.","The Federation of Entrepreneurship Development (FED), comprised of KIIT TBI students, seeks to inspire entrepreneurial-minded individuals by unifying all startup ideas on one platform. Through events that boost awareness of entrepreneurship, FED connects you with the best contacts, resources, and mentors.","The Federation of Entrepreneurship Development (FED) is a group of KIIT TBI students dedicated to motivating those with an entrepreneurial spirit by combining all potential startup ideas on a unified platform. FED organizes events that promote entrepreneurship, offering connections to top contacts, resources, and mentors.","The KIIT TBI student group known as the Federation of Entrepreneurship Development (FED) aims to spark entrepreneurial inspiration by integrating all startup ideas on a single platform. FED hosts events to enhance entrepreneurship awareness, linking you with premier contacts, resources, and mentors.", "The KIIT TBI student group known as the Federation of Entrepreneurship Development (FED) aims to spark entrepreneurial inspiration by integrating all startup ideas on a single platform. FED hosts events to enhance entrepreneurship awareness, linking you with premier contacts, resources, and mentors.", "A team of KIIT TBI students, the Federation of Entrepreneurship Development (FED), seeks to motivate aspiring entrepreneurs by consolidating all startup ideas onto one platform. FED enhances your access to top contacts, resources, and mentors through events that raise entrepreneurship awareness.", "The Federation of Entrepreneurship Development (FED), a group of students from KIIT TBI, aims to inspire those with an entrepreneurial spirit by gathering all startup ideas on a single platform. FED organizes events that elevate awareness of entrepreneurship, connecting you with leading contacts, resources, and mentors.", "The Federation of Entrepreneurship Development (FED), made up of KIIT TBI students, endeavors to encourage entrepreneurial minds by uniting all startup ideas onto a single platform. FED hosts events to promote entrepreneurship awareness, linking you to the best contacts, resources, and mentors.", "The KIIT TBI student group, Federation of Entrepreneurship Development (FED), strives to inspire potential entrepreneurs by combining all startup ideas on one platform. Through events that promote entrepreneurship awareness, FED helps you connect with top contacts, resources, and mentors."],
+      "context_set": ""
+    },
+    {"tag": "special",
+      "patterns": ["What is fed admired for?", "what is special about fed", "why should i choose fed"],
+      "responses": ["We aim to nurture entrepreneurship through creative, authentic, and efficient techniques. There is no I, only we. We exist as a team, function as a team, and execute as a team.","Our goal is to foster entrepreneurship by using methods that are original, genuine, and effective. There is just us, not an I. We are a team; we work together, play together, and accomplish as a team.","Our objective is to foster entrepreneurship by employing innovative, genuine, and effective methods. I do not exist; we do. We work together, we live together, and we act together."],
+      "context_set": ""
+    },
+    {"tag": "podcast",
+      "patterns": ["what is the FEDpreneur Show", "tell me about the FEDpreneur Show", "what is the fed podcast"],
+      "responses": ["The FEDpreneur Show is our podcast series in which we host India's most successful entrepreneurs and strive to uncover their secrets to success, learning, and entertainment! Every conversation on The FEDpreneur Show offers intellectual, educational, and extreme learning opportunities to the audience. It's about a visionary entrepreneur session with a group of multi-talented and experienced business owners. It would aid our young brains to stand strong in marketing and startup endeavors with our podcasts at The FEDpreneur Show, where we host India's best success stories and aim to dig out their secrets to success, learning, and enjoyment!","Our podcast series, The FEDpreneur Show, features the most prosperous businesspeople in India, and it aims to reveal their trade secrets for prosperity, education, and amusement! The audience can learn something new and profound from each and every discussion on The FEDpreneur Show. It concerns a workshop on imaginative entrepreneurship with a group of skilled and seasoned business owners. With The FEDpreneur Show, where we feature India's top success stories and try to uncover their keys to happiness, learning, and success, it would help our young minds to persevere in marketing and startup pursuits!"],
+      "context_set": ""
+    },
+    {"tag": "team",
+      "patterns": ["who all leads fed", "who all is in the team leading fed"],
+      "responses": ["We are a tight-knit community of passionate people devoted to bringing about vibrant and awe-inspiring changes in the field of Entrepreneurship. The pillars of our crew are the Marketing group, the Creative group, the Technical group, and the Operations group. Further details are on the team page of the website.","We are a close-knit group of enthusiastic individuals committed to transforming the entrepreneurial landscape into something exciting and breathtaking. The groups that make up our staff include the Marketing, Creative, Technical, and Operations departments. Additional information can be found on the website's team page.","Our network of dedicated individuals is close-knit and committed to enacting remarkable and dynamic improvements in the world of entrepreneurship. The cornerstones of our team consist of the Marketing, Creative, Technical, and Operations groups. You may find more information on the website's team page."],
+      "context_set": ""
+    },
+    {"tag": "contact",
+      "patterns": ["how can i contact fed", "what is the contact info for fed"],
+      "responses": ["You can contact fed at fedkiit@gmail.com or meet us in Campus 11, KIIT Deemed to be University, Bhubaneswar, Odisha, 751024","Contact fed at fedkiit@gmail.com or see us at Campus 11, KIIT Deemed to be University, Bhubaneswar, Odisha, 751024."],
+      "context_set": ""
+    },
+    {"tag": "mission",
+      "patterns": ["What is fed's mission?", "tell me about fed's mission", "what is the mission of fed"],
+      "responses": ["We aim to nurture entrepreneurship through creative, authentic, and efficient techniques. Being a forum for young entrepreneurs and assisting them in launching their businesses via providing useful information that indicates an organization's ability to function as a cohesive one. Organizing entrepreneurial activities to boost the confidence of aspiring entrepreneurs.","We want to promote entrepreneurship through innovative, honest, and efficient methods. Being a platform for young entrepreneurs and aiding them in starting their enterprises by offering relevant information demonstrates an organization's capacity to work cohesively. Organizing entrepreneurial events to increase the confidence of budding entrepreneurs."],
+      "context_set": ""
+    },
+    
+    {"tag": "events",
+      "patterns": ["what are the events that have been conducted", "tell me about the events conducted"],
+      "responses": ["The most recent was the Skillhunt on four dynamic cohorts: AI/ML, UI/UX, digital marketing, and Prompt Engineering. The others include Bizz Battle, FPL, Stonkaholic and many more exciting events. Further details are on the website.","The most recent Skillhunt targeted four dynamic cohorts: AI/ML, UI/UX, digital marketing, and Prompt Engineering. Others include Bizz Battle, FPL, Stonkaholic, and plenty other interesting events. Further information is available on the website.","The most current Skillhunt focused on four dynamic cohorts: AI/ML, UI/UX, digital marketing, and prompt engineering. Others include Bizz Battle, FPL, Stonkaholic, and a variety of other entertaining events. More information is on the webpage."],
+      "context_set": ""
+    },
+    {"tag": "skillhunt",
+      "patterns": ["what is the skillhunt about", "tell me about something about the skillhunt","what is skillhunt"],
+      "responses": ["Skill Hunt, an immersive event designed to explore the forefront of innovation across four dynamic cohorts: AI/ML, UI/UX, digital marketing, and Prompt Engineering. Whether you're a seasoned professional or a curious beginner, dive into hands-on workshops, engaging discussions, and networking opportunities tailored to each cohort's unique landscape. ","Skill Hunt is an experiential event meant to explore the cutting edge of innovation in four dynamic cohorts: AI/ML, UI/UX, digital marketing, and Prompt Engineering. Whether you're a seasoned expert or a curious novice, participate in hands-on seminars, interesting conversations, and networking opportunities customized to each cohort's specific terrain. "],
+      "context_set": ""
+    },
+    {"tag": "bizzbattle",
+      "patterns": ["what are the bizz battle about", "tell me about the bizz battle"],
+      "responses": ["BIZZ-BATTLE is an engaging business challenge event designed for aspiring business leaders. It consists of three rounds, each aimed at testing participant's knowledge, agility, and strategic acumen. The event begins with Round 1, a business quiz featuring questions to assess the depth of participant's knowledge. Teams that excel in this round move forward to Round 2, a thrilling treasure hunt where they must find answers to a set of riddles on campus. The most accurate teams then progress to the final round, Round 3, where they are presented with a real-world business scenario.","BIZZ-BATTLE is an exciting business challenge event for aspiring company leaders. It comprises of three rounds, each of which tests the participant's knowledge, agility, and strategic acumen. The event begins with Round 1, a business quiz with questions designed to measure participants' expertise. Teams that thrive in this round advance to Round 2, a thrilling treasure hunt where they must solve a series of puzzles throughout campus. The most accurate teams move on to the final round, Round 3, when they are presented with a real-world business issue."],
+      "context_set": ""
+    },
+    {"tag": "stonkaholic",
+      "patterns": ["what are the stonkaholic about", "tell me about the stonkaholic"],
+      "responses": ["This incredible competition allows all the participants to experience hands-on stock trading and hone their financial literacy. Trade with virtual money as you keep an eye on the market and best the competition with your wits. ANALYZE. CAPITALISE. DEVELOP","All competitors in this amazing competition get the opportunity to practice their financial literacy and gain firsthand experience in stock trading. As you watch the market and use your cunning to outsmart the competitors, you can trade with virtual money. Examine. Invest. Advance"],
+      "context_set": ""
+    },
+    {"tag": "new events",
+      "patterns": ["what are the upcoming events", "tell me about the new events","what are the events fed will conduct in the future"],
+      "responses": ["For current updates on the newer exciting events in fed, check out our insta page at https://www.instagram.com/fedkiit/ or connect with us on linkedin at https://www.linkedin.com/company/fedkiit/","Visit our Instagram profile at https://www.instagram.com/fedkiit/ or follow us on LinkedIn at https://www.linkedin.com/company/fedkiit/ for up-to-date information on the most recent and exciting happenings in Fed.","Check us out on Instagram at https://www.instagram.com/fedkiit/ or connect with us on LinkedIn at https://www.linkedin.com/company/fedkiit/ for the most recent updates on the interesting events in fed."],
+      "context_set": ""
+    },
+    {"tag": "president",
+      "patterns": ["who is the president of fed", "who is the president", "can you tell me the name of the president"],
+      "responses": ["Avinash Pandey is the president of FED"],
+      "context_set": ""
+    },
+    {"tag": "director of tech",
+      "patterns": ["who is the director of tech", "can you tell me the name of the director of tech", "tech director"],
+      "responses": ["Vinit Agarwal and Mohit Sharma are the co-directors for the tech department of FED.", "The tech department have two co-directors, Vinit Agarwal and Mohit Sharma."],
+      "context_set": ""
+    },
+    {"tag": "hello",
+      "patterns": ["hello", "hi", "hello there", "hi there"],
+      "responses": ["Hi, Nice to meet you do u have any questions related to fed"],
+      "context_set": ""
+    },
+    {"tag": "upcoming event",
+      "patterns": ["what is the upcoming event of fed", "upcoming event of fed", "next event of fed", "what is the next event by fed"],
+      "responses": ["FED is going to organise Omega 4.0 very soon."],
+      "context_set": ""
+    },
+    {"tag": "director of marketing",
+      "patterns": ["who is the director of marketing", "can you tell me the name of the director of marketing", "marketing director"],
+      "responses": ["Eshan Modh is the director for the tech department of FED."],
+      "context_set": ""
+    },
+    {"tag": "What is Omega",
+      "patterns": ["what is omega?", "what is the omega event?", "what is omega 4.0?"],
+      "responses": ["Omega is FED's flagship event consisting of 4 different segments, focusing on development of entrepreneurship and other skills."],
+      "context_set": ""
+    },
+    {"tag": "register for omega",
+      "patterns": ["how to register for omega?", "how to register?", "how can i register for omega"],
+      "responses": ["Be updated with our instagram posts and FED site, A registration link will be provided once the registrations are on or You can scan the QR code provided on our official Instagram account. https://www.instagram.com/fedkiit/"],
+      "context_set": ""
+    },
+    {"tag": "all team members belong to KIIT",
+      "patterns": ["Is it necessary that all the team members belong to KIIT only?","Is it mandatory for all team members to be from KiiT University?", "Can we include members from other universities in our team?","Is there a requirement for team members to be from specific departments within KiiT?"],
+      "responses": ["No, there is no such specific condition , you are free to select your teammates."],
+      "context_set": ""
+    },
+    {
+      "tag": "rewards",
+      "patterns": ["What are the rewards?", "What prizes are available for the winners?", "Are there any awards for participants?", "What can we win?", "What are the prizes?"],
+      "responses": ["We do have exciting prizes for the winners. So, be updated with all our announcements and discover what exciting things we have for you all."],
+      "context_set": ""
+    },
+    {
+        "tag": "pitchers event",
+        "patterns": ["What exactly do we have to do in pitchers?", "What is the pitchers event about?", "How does the pitchers event work?", "What is required in the pitchers event?", "Can you explain the pitchers event?"],
+        "responses": ["Contestants will present their ideas in front of investors and other participants. It will be the same as Shark Tank, but here, even the participants can invest in other ideas."],
+        "context_set": ""
+    },
+    {
+        "tag": "FPL",
+        "patterns": ["What is FPL?", "Can you explain FPL?", "What does FPL stand for?", "Tell me about FPL.", "What happens in the FPL event?"],
+        "responses": ["It is an imitation of Indian Premier League cricket auctions."],
+        "context_set": ""
+    },
+    {
+        "tag": "pitchers event difference",
+        "patterns": ["How is the pitchers event this year different from that of the previous editions?", "What is new in this year's pitchers event?", "How has the pitchers event changed?", "What are the differences in the pitchers event this year?", "What's different in this year's pitchers event?"],
+        "responses": ["This time the pitchers can pitch as well as invest in other ideas."],
+        "context_set": ""
+    },
+    {
+        "tag": "contact organizing committee",
+        "patterns": ["How to connect with the Organising Committee from the FED website?", "How can I contact the Organizing Committee?", "What is the best way to reach the organizing team?", "How do I get in touch with the organizers?", "How can I connect with the FED organizing committee?"],
+        "responses": ["Our website has all the info related to our members, and you can directly head to any of our members' social media accounts and connect with them. If you have any doubts, you can ask us on https://www.instagram.com/fedkiit/ and https://www.fedkiit.com/ (our official website)."],
+        "context_set": ""
+    },
+    {
+        "tag": "single participant",
+        "patterns": ["Is it possible for a single participant to participate in all the events of Omega?", "Can one person join all the events?", "Can a single participant take part in multiple events?", "Is there a limit on the number of events one participant can join?", "Can I participate in all the events alone?"],
+        "responses": ["Yes, contestants can participate alone or as a team."],
+        "context_set": ""
+    },
+    {
+        "tag": "event duration",
+        "patterns": ["How long will the events last on the given dates?", "What is the schedule for the events?", "How long do the events run each day?", "What are the timings for the events?", "When do the events start and end?"],
+        "responses": ["DATES: 25th and 26th of August\nTIMINGS: 10:00AM – 2:00PM\n3:00PM – 6:00PM"],
+        "context_set": ""
+    },
+    {
+        "tag": "registration payment",
+        "patterns": ["Can the registration payment be done via the website?", "how can i pay", "how do i pay", "how to do the payment", "How do I pay for registration?", "Is online payment available for registration?", "Can I pay the registration fee on the website?", "Is it possible to register and pay online?"],
+        "responses": ["Participants can register from the website itself."],
+        "context_set": ""
+    },
+    {
+        "tag": "thanks",
+        "patterns": ["thanks", "thank you", "thank you so much", "thank you very much"],
+        "responses": ["You're welcome!", "No problem!", "My pleasure!", "Anytime!", "Glad to help!", "You're most welcome!", "Happy to assist!", "Don't mention it!", "It was nothing!", "Always here to help!"],
+        "context_set": ""
+    }
+  ]
+}
