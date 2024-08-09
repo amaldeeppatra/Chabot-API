@@ -29,12 +29,7 @@
       "responses": ["We aim to nurture entrepreneurship through creative, authentic, and efficient techniques. Being a forum for young entrepreneurs and assisting them in launching their businesses via providing useful information that indicates an organization's ability to function as a cohesive one. Organizing entrepreneurial activities to boost the confidence of aspiring entrepreneurs.","We want to promote entrepreneurship through innovative, honest, and efficient methods. Being a platform for young entrepreneurs and aiding them in starting their enterprises by offering relevant information demonstrates an organization's capacity to work cohesively. Organizing entrepreneurial events to increase the confidence of budding entrepreneurs."],
       "context_set": ""
     },
-    
-    {"tag": "events",
-      "patterns": ["what are the events that have been conducted", "tell me about the events conducted"],
-      "responses": ["The most recent was the Skillhunt on four dynamic cohorts: AI/ML, UI/UX, digital marketing, and Prompt Engineering. The others include Bizz Battle, FPL, Stonkaholic and many more exciting events. Further details are on the website.","The most recent Skillhunt targeted four dynamic cohorts: AI/ML, UI/UX, digital marketing, and Prompt Engineering. Others include Bizz Battle, FPL, Stonkaholic, and plenty other interesting events. Further information is available on the website.","The most current Skillhunt focused on four dynamic cohorts: AI/ML, UI/UX, digital marketing, and prompt engineering. Others include Bizz Battle, FPL, Stonkaholic, and a variety of other entertaining events. More information is on the webpage."],
-      "context_set": ""
-    },
+
     {"tag": "skillhunt",
       "patterns": ["what is the skillhunt about", "tell me about something about the skillhunt","what is skillhunt"],
       "responses": ["Skill Hunt, an immersive event designed to explore the forefront of innovation across four dynamic cohorts: AI/ML, UI/UX, digital marketing, and Prompt Engineering. Whether you're a seasoned professional or a curious beginner, dive into hands-on workshops, engaging discussions, and networking opportunities tailored to each cohort's unique landscape. ","Skill Hunt is an experiential event meant to explore the cutting edge of innovation in four dynamic cohorts: AI/ML, UI/UX, digital marketing, and Prompt Engineering. Whether you're a seasoned expert or a curious novice, participate in hands-on seminars, interesting conversations, and networking opportunities customized to each cohort's specific terrain. "],
@@ -67,7 +62,7 @@
     },
     {"tag": "hello",
       "patterns": ["hello", "hi", "hello there", "hi there"],
-      "responses": ["Hi, Nice to meet you do u have any questions related to fed"],
+      "responses": ["Hi, Nice to meet you do u have any questions related to FED"],
       "context_set": ""
     },
     {"tag": "upcoming event",
@@ -86,7 +81,7 @@
       "context_set": ""
     },
     {"tag": "register for omega",
-      "patterns": ["how to register for omega?", "how to register?", "how can i register for omega"],
+      "patterns": ["how to register for omega?", "how to register?", "how can i register for omega", "what is the procedure to participate"],
       "responses": ["Be updated with our instagram posts and FED site, A registration link will be provided once the registrations are on or You can scan the QR code provided on our official Instagram account. https://www.instagram.com/fedkiit/"],
       "context_set": ""
     },
@@ -148,6 +143,18 @@
         "patterns": ["thanks", "thank you", "thank you so much", "thank you very much"],
         "responses": ["You're welcome!", "No problem!", "My pleasure!", "Anytime!", "Glad to help!", "You're most welcome!", "Happy to assist!", "Don't mention it!", "It was nothing!", "Always here to help!"],
         "context_set": ""
+    },
+    {
+      "tag": "created bot",
+      "patterns": ["who created this bot", "who made this bot", "who is the creator of this bot"],
+      "responses": ["Amaldeep Patra, technical executive of FED has developed this bot."],
+      "context_set": ""
+    },
+    {
+      "tag": "events",
+      "patterns": ["what are the events fed includes", "what are the events fed organise", "what are the events fed conducts"],
+      "responses": ["Fed organises many events which includes Omega, Skillhunt, Bizz Battle, etc."],
+      "context_set": ""
     }
   ]
 }
