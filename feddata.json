@@ -596,6 +596,87 @@
       "patterns": ["thanks", "thank you", "thank you so much", "thank you very much"],
       "responses": ["You're welcome!", "No problem!", "My pleasure!", "Anytime!", "Glad to help!", "You're most welcome!", "Happy to assist!", "Don't mention it!", "It was nothing!", "Always here to help!"],
       "context_set": ""
-  }
+    },
+    {
+      "tag": "developed website",
+      "patterns": [
+        "who developed the website",
+        "who developed the site",
+        "who made the website",
+        "who created this website",
+        "who designed the site",
+        "who was behind the development of this website",
+        "who built this website",
+        "can you tell me who developed this site",
+        "who is responsible for the development of this website",
+        "who put together this website",
+        "who is the creator of this site",
+        "who crafted this website",
+        "who developed this platform"
+      ],
+      "responses": [
+        "The Tech department of FED developed this beautiful website.",
+        "This website was developed by the Tech department of FED.",
+        "Our Tech department is responsible for the development of this site.",
+        "The development of this website was handled by the Tech team at FED.",
+        "This site was crafted by the skilled developers in the Tech department of FED.",
+        "The Tech department at FED designed and developed this website.",
+        "FED's Tech team put together this website.",
+        "The website you see was developed by the Tech department of FED.",
+        "Our website was created by the talented developers in the Tech department of FED.",
+        "The Tech team of FED is behind the development of this site.",
+        "The website was built by the Tech department of FED with great care."
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "events in omega",
+      "patterns": [
+        "are there any events related to omega",
+        "what are the events in omega",
+        "what events are happening in Omega",
+        "can you tell me about Omega events",
+        "what events are scheduled under Omega",
+        "what's going on in Omega",
+        "are there any upcoming Omega events",
+        "what are the activities in Omega",
+        "list the events for Omega",
+        "what events are part of Omega 4.0",
+        "can you provide details on Omega events",
+        "what's happening with Omega",
+        "give me information on Omega events"
+      ],
+      "responses": [
+        "There will be multiple events under Omega 4.0 like hackathon, FPL, etc.",
+        "Omega 4.0 includes several events such as a hackathon and FPL.",
+        "Upcoming events in Omega include a hackathon and FPL among others.",
+        "Omega will feature events like hackathon and FPL.",
+        "In Omega 4.0, you can look forward to events like a hackathon and FPL.",
+        "Events planned under Omega include a hackathon and FPL.",
+        "Omega 4.0 will host various events including a hackathon and FPL.",
+        "You can expect events like a hackathon and FPL as part of Omega.",
+        "The Omega events will consist of a hackathon and FPL, among other activities.",
+        "Under Omega 4.0, there are events such as hackathon and FPL."
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "girlfriend",
+      "patterns": [
+        "do you have a girlfriend",
+        "are you seeing someone",
+        "do you have a partner",
+        "are you dating anyone",
+        "do you have a special someone"
+      ],
+      "responses": [
+        "I'm all about helping you out, no time for dating!",
+        "I don't have personal relationships, but I'm here to assist you with any questions!",
+        "As an AI, I focus on assisting you rather than dating.",
+        "No personal life here—I'm here to help you with whatever you need!",
+        "I'm here to provide support, not to date. How can I assist you today?"
+      ],
+      "context_set": ""
+    }
   ]
 }
