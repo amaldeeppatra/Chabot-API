@@ -677,6 +677,12 @@
         "I'm here to provide support, not to date. How can I assist you today?"
       ],
       "context_set": ""
+    },
+    {
+      "tag": "tell me more about it",
+      "patterns": ["tell me more about it", "can you tell me more about it", "please tell me more about it", "tell more about it"],
+      "responses": ["Can you please specify?", "Sure! Please tell me about what you wanna know."],
+      "context_set": ""
     }
   ]
 }
