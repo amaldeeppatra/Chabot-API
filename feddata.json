@@ -345,11 +345,11 @@
       "What are the instructions for registering for Omega?"
     ],
     "responses": [
-      "Be updated with our Instagram posts and FED site. A registration link will be provided once the registrations are on, or you can scan the QR code provided on our official Instagram account. https://www.instagram.com/fedkiit/",
-      "Keep an eye on our Instagram page and FED website. A registration link will be shared once registrations open, or scan the QR code on our Instagram account. https://www.instagram.com/fedkiit/",
-      "Follow our Instagram updates and check the FED website. Registration links will be provided once available, or scan the QR code on our Instagram. https://www.instagram.com/fedkiit/",
-      "Stay tuned to our Instagram and FED site for registration updates. A link will be provided when registrations open, or scan the QR code on our Instagram account. https://www.instagram.com/fedkiit/",
-      "Check our Instagram and FED website for registration details. A link will be available once registrations begin, or use the QR code on our Instagram. https://www.instagram.com/fedkiit/"
+      "To register for Omega 4.0, simply visit the Events page and click on 'Register Now'. Fill in your details in the registration form and proceed with the payment. Once registered, you can select the events under Omega 4.0 that you wish to participate in. After that, you only need to form your team without any additional payment required.",
+      "To sign up for Omega 4.0, head over to the Events page and click 'Register Now'. Enter your information in the registration form and complete the payment process. After registering, choose the events under Omega 4.0 you want to join. Then, form your team without any need for further payment.",
+      "Registering for Omega 4.0 is easy. Go to the Events page and click 'Register Now'. Fill out the form with your details and make the payment. Once done, select the events you want to participate in under Omega 4.0. You only need to form your team afterward, with no additional payment required.",
+      "To join Omega 4.0, visit the Events page and click on 'Register Now'. Complete the registration form with your details and make the necessary payment. Afterward, register for the specific events under Omega 4.0. Simply form your team, as no extra payment is needed.",
+      "To enroll in Omega 4.0, navigate to the Events page and click 'Register Now'. Provide your details in the registration form and make the payment. After registering, choose the events you wish to participate in under Omega 4.0. Then, you can form your team without having to pay again."
     ],
     "context_set": ""
   },
@@ -682,6 +682,12 @@
       "tag": "tell me more about it",
       "patterns": ["tell me more about it", "can you tell me more about it", "please tell me more about it", "tell more about it"],
       "responses": ["Can you please specify?", "Sure! Please tell me about what you wanna know."],
+      "context_set": ""
+    },
+    {
+      "tag": "pay again",
+      "patterns": ["do i need to pay again for events?", "do i have to pay again for hackathon", "do i have to pay again for fpl", "do i have to pay again for investors adda"],
+      "responses": ["If you have already paid and registered for Omega 4.0, you don't need to make any further payments. Simply register for the events you want to participate in and form your team.", "Once you have paid and registered for Omega 4.0, there is no need for additional payments. Just proceed to register for your chosen events and form your team.", "After completing the payment and registration for Omega 4.0, you don't need to pay again. Simply register for the events you want to join and create your team.", "If you've already paid and registered for Omega 4.0, no further payments are necessary. Just sign up for the specific events and form your team.", "Upon completing your payment and registration for Omega 4.0, there's no need for further payments. Simply register for the desired events and assemble your team."],
       "context_set": ""
     }
   ]
